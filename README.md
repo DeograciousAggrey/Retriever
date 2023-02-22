@@ -1,17 +1,6 @@
-**Keyppi** 
+
 
 Keyppi is a zero-knowledge private key recovery platform. We secure your keys by implementing zero-knowledge proof, decentralized storage, identity verification using proof-of-personhood, and offering a free service to retail users.
-
-***Team***
-1. Laura Navarro- Project Manager (cryptomeetlaunamu@gmail.com)
-2. Doris Hernandez- Fullstack Developer (d.hernz@gmail.com)
-3. Carlos Erazo - Backend Developer (a.erazo@beanar.io)
-4. Felipe Flores - Backend Developer (lffm.fismat@gmail.com)
-5. Yasmeen Roumie - Fullstack Developer (yasmeenroumie@gmail.com)
-
-***How is the project built?***
-
-**Registration:** 
 
 Data required on frontend: 
 
@@ -95,7 +84,7 @@ The solution that we have built can increase and accelerate mass adoption of non
 
 **Check out our demo:**
 
-www.keyppi.com
+
 
 ## Instructions
 
