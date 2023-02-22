@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+.env
+.parcel-cache
+node_modules
+coverage*
+typechain*
+
+#Hardhat files
+cache
+artifacts
