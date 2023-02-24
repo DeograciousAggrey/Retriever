@@ -72,7 +72,6 @@ Link:
 
 By using Polygon to hold our Gift a Wallet functionality we are targeting the best public good project prize. We strongly believe that having a safe onboarding process to web3 should be accessible to all for it will lead to a sustainable and diverse growth in the web3 ecosystem. 
 
-[https://mumbai.polygonscan.com/address/0xfa96815Fa79Af20527327eF2430464A70d4509b8]
 
 **Notable Hacks:**
 
