@@ -81,11 +81,11 @@ Private keys are extremely sensitive, for someone to trust you with them require
 
 The solution that we have built can increase and accelerate mass adoption of non-custodial crypto wallets and through it the use of the DeFi ecosystem in Latin America, and at a global level. By improving the user experience required to hold your own crypto assets, we make it easier for non-web3 natives to bridge directly to a backed-up self-custodial web3 experience.
 
-**Check out our demo:**
 
 
 
-## Instructions
+
+
 
 ### Run locally
 ```
